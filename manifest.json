@@ -1,0 +1,50 @@
+{
+  "name": "Basketball Statistics Generator",
+  "short_name": "BSG",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": " #215463e3",
+  "icons": [
+    {
+      "src": "BSG.jpg",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "128x128",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "384x384",
+      "type": "image/jpg"
+    },
+    {
+      "src": "BSG.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
